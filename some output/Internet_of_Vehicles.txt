@@ -1,0 +1,11 @@
+Research Topic: Internet of Vehicles (IoV) in Blockchain
+
+Summary:
+The Internet of Vehicles (IoV) is a system that connects vehicles to each other and to the internet, enabling various applications such as traffic management, autonomous driving, and infotainment. Blockchain technology can enhance IoV by providing security, transparency, and trust.  Blockchain's decentralized and immutable nature can secure data transmission and prevent tampering, improving the reliability of IoV applications.  Furthermore, blockchain can facilitate secure data sharing among vehicles and infrastructure, enabling efficient traffic management and improved safety.  However, challenges remain, including scalability, latency, and the need for standardization.
+
+Sources:
+- https://www.researchgate.net/publication/344006569_Blockchain_Technology_for_Internet_of_Vehicles_IoV_A_Survey
+- https://arxiv.org/abs/2207.06400
+
+Tools Used:
+- default_api

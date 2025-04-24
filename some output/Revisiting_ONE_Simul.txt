@@ -1,0 +1,8 @@
+Research Topic: Revisiting ONE Simulator in IoV
+
+Summary:
+The ONE simulator is a powerful tool for researchers and developers working in the Internet of Vehicles (IoV) space.  It allows for the simulation of various aspects of IoV systems, including vehicle-to-vehicle (V2V) and vehicle-to-infrastructure (V2I) communication, network protocols, and application behavior.  Research using ONE could focus on improving aspects like simulation accuracy, scalability, or developing new applications for IoV.  Further investigation into specific use cases and advancements in the simulator itself would be needed for a more detailed summary.
+
+Sources:
+
+Tools Used:

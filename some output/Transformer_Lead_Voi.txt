@@ -1,0 +1,10 @@
+Research Topic: Transformer Lead Voice Actor
+
+Summary:
+The lead voice actor for the Transformers franchise is not a single person, as different actors have voiced different Transformers characters in different iterations of the franchise.  Some notable actors include Peter Cullen (Optimus Prime), Frank Welker (Megatron, Soundwave), and Leonard Nimoy (Galvatron).
+
+Sources:
+- https://en.wikipedia.org/wiki/The_Transformers_(franchise)
+
+Tools Used:
+- default_api.wikipedia

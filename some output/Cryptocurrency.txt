@@ -1,0 +1,10 @@
+Research Topic: Cryptocurrency
+
+Summary:
+Cryptocurrency is a digital or virtual currency designed to work as a medium of exchange. It uses cryptography to secure and verify transactions as well as to control the creation of new units of a particular cryptocurrency.  Cryptocurrencies are decentralized, meaning they are not subject to government or financial institution control.  Popular examples include Bitcoin, Ethereum, and Litecoin.  The technology behind cryptocurrencies, blockchain, is a distributed ledger that records and verifies transactions across a network of computers.
+
+Sources:
+- https://en.wikipedia.org/wiki/Cryptocurrency
+
+Tools Used:
+- default_api
